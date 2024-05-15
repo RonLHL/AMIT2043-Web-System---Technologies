@@ -1,0 +1,84 @@
+body{
+    background-image: url("../img/wallpaper.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.main{
+    text-align: center;
+}
+
+.logo{
+    width: 150px;
+}
+
+#button{
+    background-color: #A6EEF0;
+    border: 0;
+    border-radius: 50px;
+    width: 75px;
+    height: 40px;
+}
+
+.event-info{
+    display: block;
+    margin: 50px 80px 50px 80px;
+    padding: 10px 0px 10px 0px;
+    background-color: white;
+}
+
+.event-info h1{
+    text-align: center;
+}
+
+.event-info p{
+    font-size: 24px;
+    
+}
+
+.event-info img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+table{
+    width: 100%;
+    font-size: 18px;
+    padding: 15px;
+}
+
+th{
+    background-color: white;
+    color: black;
+}
+td{
+    text-align: left;
+}
+.event-img{
+    width: 350px;
+}
+            
+.desp{
+    width: 900px;
+}
+            
+.part{
+    text-align: center;
+    font-size: 30px;
+    color: red;
+    border: 2px;
+}
+            
+.delete-all{
+    background-color: #A6EEF0;
+    border: 0;
+    border-radius: 50px;
+    width: 100px;
+    height: 40px;
+}
+
+
+
+

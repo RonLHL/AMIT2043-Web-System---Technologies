@@ -1,0 +1,38 @@
+.logo {
+    position: relative;
+    float: left;
+    width:  50px;
+    height: 50px;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+    mix-blend-mode: darken;
+}
+
+.memberProfile {
+    position: relative;
+    float: left;
+    width:  50px;
+    height: 50px;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+    mix-blend-mode: darken;
+}
+
+.main {
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.total-row {
+    font-weight: bold;
+}
+
+footer {
+    padding: 10px;
+    text-align: center;
+    color: black;
+}
